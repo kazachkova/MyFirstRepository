@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source name="simpledb" uuid="35febbeb-2080-4c84-8e5c-48e397e726f6">
+    <database-info product="H2" version="1.3.176 (2014-04-05)" jdbc-version="4.0" driver-name="H2 JDBC Driver" driver-version="1.3.176 (2014-04-05)">
+      <identifier-quote-string>&quot;</identifier-quote-string>
+    </database-info>
+    <case-sensitivity plain-identifiers="upper" quoted-identifiers="exact"/>
+    <schema name="PUBLIC" catalog="SIMPLEDB"/>
+    <table name="STUDENTS" schema="PUBLIC" catalog="SIMPLEDB" type="TABLE">
+      <column name="ID" sqlType="INTEGER" precision="10" scale="0" nullable="false" jdbcType="4" def="KE5FWFQgVkFMVUUgRk9SIFBVQkxJQy5TWVNURU1fU0VRVUVOQ0VfRDQ1QUJGNEFfQTFCMF80RTdEX0JFRERfNzFCOTlCQTg2QTJEKQ==" autoIncrement="true"/>
+      <column name="NAME" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="SURNAME" sqlType="VARCHAR" precision="20" scale="0" nullable="false" jdbcType="12"/>
+      <column name="RATING" sqlType="DOUBLE" precision="17" scale="0" nullable="true" jdbcType="8"/>
+      <primary-key name="CONSTRAINT_9" columns="ID"/>
+    </table>
+  </data-source>
+</component>

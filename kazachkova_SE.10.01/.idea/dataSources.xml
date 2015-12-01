@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1707250499">
+    <data-source source="LOCAL" name="simpledb" uuid="35febbeb-2080-4c84-8e5c-48e397e726f6">
+      <driver-ref>h2.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/SimpleDB</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>

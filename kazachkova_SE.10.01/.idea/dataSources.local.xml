@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="simpledb" uuid="35febbeb-2080-4c84-8e5c-48e397e726f6">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>SIMPLEDB.PUBLIC</schema-pattern>
+      <default-schemas>SIMPLEDB.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>
