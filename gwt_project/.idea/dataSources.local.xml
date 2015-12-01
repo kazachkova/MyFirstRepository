@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="dataSourceStorageLocal">
+    <data-source name="CommitteeDB" uuid="7f96afbf-4567-47fd-a8df-6159f768fe66">
+      <secret-storage>master_key</secret-storage>
+      <user-name>root</user-name>
+      <schema-pattern>COMMITTEEDB.PUBLIC</schema-pattern>
+      <default-schemas>COMMITTEEDB.PUBLIC</default-schemas>
+    </data-source>
+  </component>
+</project>

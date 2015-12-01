@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" hash="1947867941">
+    <data-source source="LOCAL" name="CommitteeDB" uuid="7f96afbf-4567-47fd-a8df-6159f768fe66">
+      <driver-ref>h2.embedded</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.h2.Driver</jdbc-driver>
+      <jdbc-url>jdbc:h2:file:$PROJECT_DIR$/src/com/kazachkova/web/gwt/server/CommitteeDB</jdbc-url>
+      <libraries />
+    </data-source>
+  </component>
+</project>
